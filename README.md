@@ -23,6 +23,7 @@ VoIP / Telecom: SIP Core, Matrix Comsec EPABX (250+ lines), Media Gateways, E1/T
 Real-time Media & AI Orchestration
 Streaming: go2rtc, WebRTC RTSP Proxying, HEVC/H.264 GPU Passthrough (Intel VAAPI), FFmpeg
 AI Integration: LiveKit WebRTC, Google Gemini API, OpenAI API, Local LLM deployments (Ollama)
+
 📂 Featured Projects
 
 🔐 AuthHub & Cloud Portal Application
